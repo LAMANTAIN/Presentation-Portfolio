@@ -39,9 +39,8 @@ Ce compte GitHub me permet de :
 
 ## 🤝 Me contacter
 
-📫 **Email** : ton.email@example.com  
-💼 **LinkedIn** : [linkedin.com/in/tonprofil](https://linkedin.com/in/tonprofil)  
-📄 **CV** : [Lien vers ton CV PDF ou Notion](#)
+📫 **Email** : antonin.guillemot@hotmail.fr 
+💼 **LinkedIn** : [linkedin.com/in/antonin2/](https://www.linkedin.com/in/antonin2/)
 
 ---
 
