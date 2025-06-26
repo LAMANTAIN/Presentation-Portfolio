@@ -31,9 +31,11 @@ Ce compte GitHub me permet de :
 
 | Projet | Description | Stack principale |
 |--------|-------------|------------------|
-| 🔧 `SecurePanel` | Application de gestion de projets sécurisée (auth, CRUD, tableau de bord) | Django, React, JWT, Docker |
-| 🌐 `StackFolio` | Vitrine web full-stack responsive avec API et déploiement | Django REST, React, Tailwind, Docker |
-| 🏆 `TOURNAMENT` | Système de gestion de tournois e-sport (bracket, scores, API) | Django, Bootstrap, JS |
+| 🔐 [ControlView](https://github.com/LAMANTAIN/ControlView) | Vitrine full-stack avec authentification JWT, API sécurisée, gestion de contenu et déploiement via Docker. | Django REST, React, Tailwind, Docker |
+| 📆 [EASY-EVENT](https://github.com/LAMANTAIN/EASY-EVENT) | Application de gestion d'événements : création, affichage public, interface admin, système de réservations. | Django, Bootstrap, PostgreSQL |
+| 📂 [ProjetSync](https://github.com/LAMANTAIN/ProjetSync) | Outil collaboratif de gestion de projets avec tâches, utilisateurs et suivi d’avancement. | Django, HTML/CSS, JavaScript |
+| 🏆 [TOURNAMENT](https://github.com/LAMANTAIN/TOURNAMENT) | Application web pour la gestion de tournois esport avec inscriptions, scores et arbre de compétition. | Django, Bootstrap, jQuery |
+
 
 ---
 
