@@ -21,7 +21,7 @@ Ce compte GitHub me permet de :
 ## 🛠️ Compétences techniques
 
 - **Back-end** : Django, Laravel, Node.js, Python, PHP, MySQL, PostgreSQL
-- **Front-end** : React, Tailwind CSS, JavaScript, HTML/CSS
+- **Front-end** : Vue.js, React, Tailwind CSS, JavaScript, HTML/CSS
 - **DevOps** : Docker, docker-compose, Nginx
 - **Autres** : Git, GitHub, UML, API REST, sécurité (auth JWT, gestion des droits)
 
